@@ -1,2 +1,2 @@
-# my html cv
+# My HTML CV
  All exercises in HTML
